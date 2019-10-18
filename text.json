@@ -1,710 +1,710 @@
 [
  {
    "text": "Car",
-   "mp3": "https://raw.githubusercontent.com/zaferelcik/promter/master/sounds/Jeep.mp3"
+   "mp3": "Car"
  },
  {
    "text": "Motorcycle",
-   "mp3": "Motorcycle.mp3"
+   "mp3": "Motorcycle"
  },
  {
    "text": "Bicycle",
-   "mp3": "Bicycle.mp3"
+   "mp3": "Bicycle"
  },
  {
    "text": "Jeep",
-   "mp3": "Jeep.mp3"
+   "mp3": "Jeep"
  },
  {
    "text": "Balloon",
-   "mp3": "Balloon.mp3"
+   "mp3": "Balloon"
  },
  {
    "text": "Helicopter",
-   "mp3": "Helicopter.mp3"
+   "mp3": "Helicopter"
  },
  {
    "text": "Van",
-   "mp3": "Van.mp3"
+   "mp3": "Van"
  },
  {
    "text": "Taxi",
-   "mp3": "Taxi.mp3"
+   "mp3": "Taxi"
  },
  {
    "text": "Bus",
-   "mp3": "Bus.mp3"
+   "mp3": "Bus"
  },
  {
    "text": "Ambulance",
-   "mp3": "Ambulance.mp3"
+   "mp3": "Ambulance"
  },
  {
    "text": "Skateboard",
-   "mp3": "Skateboard.mp3"
+   "mp3": "Skateboard"
  },
  {
    "text": "Scooter",
-   "mp3": "Scooter.mp3"
+   "mp3": "Scooter"
  },
  {
    "text": "Plane",
-   "mp3": "Plane.mp3"
+   "mp3": "Plane"
  },
  {
    "text": "Train",
-   "mp3": "Train.mp3"
+   "mp3": "Train"
  },
  {
    "text": "Happy",
-   "mp3": "Happy.mp3"
+   "mp3": "Happy"
  },
  {
    "text": "Sad",
-   "mp3": "Sad.mp3"
+   "mp3": "Sad"
  },
  {
    "text": "Funny",
-   "mp3": "Funny.mp3"
+   "mp3": "Funny"
  },
  {
    "text": "Laugh",
-   "mp3": "Laugh.mp3"
+   "mp3": "Laugh"
  },
  {
    "text": "Thirsty",
-   "mp3": "Thirsty.mp3"
+   "mp3": "Thirsty"
  },
  {
    "text": "Good",
-   "mp3": "Good.mp3"
+   "mp3": "Good"
  },
  {
    "text": "Afraid",
-   "mp3": "Afraid.mp3"
+   "mp3": "Afraid"
  },
  {
    "text": "Angry",
-   "mp3": "Angry.mp3"
+   "mp3": "Angry"
  },
  {
    "text": "Bored",
-   "mp3": "Bored.mp3"
+   "mp3": "Bored"
  },
  {
    "text": "Confused",
-   "mp3": "Confused.mp3"
+   "mp3": "Confused"
  },
  {
    "text": "Scared",
-   "mp3": "Scared.mp3"
+   "mp3": "Scared"
  },
  {
    "text": "School",
-   "mp3": "School.mp3"
+   "mp3": "School"
  },
  {
    "text": "Paper",
-   "mp3": "Paper.mp3"
+   "mp3": "Paper"
  },
  {
    "text": "Napkin",
-   "mp3": "Napkin.mp3"
+   "mp3": "Napkin"
  },
  {
    "text": "Chalk",
-   "mp3": "Chalk.mp3"
+   "mp3": "Chalk"
  },
  {
    "text": "Chair",
-   "mp3": "Chair.mp3"
+   "mp3": "Chair"
  },
  {
    "text": "Flag",
-   "mp3": "Flag.mp3"
+   "mp3": "Flag"
  },
  {
    "text": "Teacher",
-   "mp3": "Teacher.mp3"
+   "mp3": "Teacher"
  },
  {
    "text": "Eraser",
-   "mp3": "Eraser.mp3"
+   "mp3": "Eraser"
  },
  {
    "text": "Pencil",
-   "mp3": "Pencil.mp3"
+   "mp3": "Pencil"
  },
  {
    "text": "Puzzle",
-   "mp3": "Puzzle.mp3"
+   "mp3": "Puzzle"
  },
  {
    "text": "Scissors",
-   "mp3": "Scissors.mp3"
+   "mp3": "Scissors"
  },
  {
    "text": "Book",
-   "mp3": "Book.mp3"
+   "mp3": "Book"
  },
  {
    "text": "Backpack",
-   "mp3": "Backpack.mp3"
+   "mp3": "Backpack"
  },
  {
    "text": "Tissue",
-   "mp3": "Tissue.mp3"
+   "mp3": "Tissue"
  },
  {
    "text": "Table",
-   "mp3": "Table.mp3"
+   "mp3": "Table"
  },
  {
    "text": "Ball",
-   "mp3": "Ball.mp3"
+   "mp3": "Ball"
  },
  {
    "text": "Soccer",
-   "mp3": "Soccer.mp3"
+   "mp3": "Soccer"
  },
  {
    "text": "Athlete",
-   "mp3": "Athlete.mp3"
+   "mp3": "Athlete"
  },
  {
    "text": "Baseball",
-   "mp3": "Baseball.mp3"
+   "mp3": "Baseball"
  },
  {
    "text": "Volleyball",
-   "mp3": "Volleyball.mp3"
+   "mp3": "Volleyball"
  },
  {
    "text": "Football",
-   "mp3": "Football.mp3"
+   "mp3": "Football"
  },
  {
    "text": "Basketball",
-   "mp3": "Basketball.mp3"
+   "mp3": "Basketball"
  },
  {
    "text": "Tennis",
-   "mp3": "Tennis.mp3"
+   "mp3": "Tennis"
  },
  {
    "text": "Golf",
-   "mp3": "Golf.mp3"
+   "mp3": "Golf"
  },
  {
    "text": "Laptop",
-   "mp3": "Laptop.mp3"
+   "mp3": "Laptop"
  },
  {
    "text": "Tablet",
-   "mp3": "Tablet.mp3"
+   "mp3": "Tablet"
  },
  {
    "text": "Keyboard",
-   "mp3": "Keyboard.mp3"
+   "mp3": "Keyboard"
  },
  {
    "text": "Mouse",
-   "mp3": "Mouse.mp3"
+   "mp3": "Mouse"
  },
  {
    "text": "Speaker",
-   "mp3": "Speaker.mp3"
+   "mp3": "Speaker"
  },
  {
    "text": "Printer",
-   "mp3": "Printer.mp3"
+   "mp3": "Printer"
  },
  {
    "text": "Radio",
-   "mp3": "Radio.mp3"
+   "mp3": "Radio"
  },
  {
    "text": "TV",
-   "mp3": "TV.mp3"
+   "mp3": "TV"
  },
  {
    "text": "Smartphone",
-   "mp3": "Smartphone.mp3"
+   "mp3": "Smartphone"
  },
  {
    "text": "Coffee",
-   "mp3": "Coffee.mp3"
+   "mp3": "Coffee"
  },
  {
    "text": "Tea",
-   "mp3": "Tea.mp3"
+   "mp3": "Tea"
  },
  {
    "text": "Soda",
-   "mp3": "Soda.mp3"
+   "mp3": "Soda"
  },
  {
    "text": "Coke",
-   "mp3": "Coke.mp3"
+   "mp3": "Coke"
  },
  {
    "text": "Water",
-   "mp3": "Water.mp3"
+   "mp3": "Water"
  },
  {
    "text": "Milk",
-   "mp3": "Milk.mp3"
+   "mp3": "Milk"
  },
  {
    "text": "Milkshake",
-   "mp3": "Milkshake.mp3"
+   "mp3": "Milkshake"
  },
  {
    "text": "Candy",
-   "mp3": "Candy.mp3"
+   "mp3": "Candy"
  },
  {
    "text": "Ketchup",
-   "mp3": "Ketchup.mp3"
+   "mp3": "Ketchup"
  },
  {
    "text": "Jello",
-   "mp3": "Jello.mp3"
+   "mp3": "Jello"
  },
  {
    "text": "Jam",
-   "mp3": "Jam.mp3"
+   "mp3": "Jam"
  },
  {
    "text": "Desert",
-   "mp3": "Desert.mp3"
+   "mp3": "Desert"
  },
  {
    "text": "Lunch",
-   "mp3": "Lunch.mp3"
+   "mp3": "Lunch"
  },
  {
    "text": "Chocolate",
-   "mp3": "Chocolate.mp3"
+   "mp3": "Chocolate"
  },
  {
    "text": "Juice",
-   "mp3": "Juice.mp3"
+   "mp3": "Juice"
  },
  {
    "text": "Popsicle",
-   "mp3": "Popsicle.mp3"
+   "mp3": "Popsicle"
  },
  {
    "text": "Sugar",
-   "mp3": "Sugar.mp3"
+   "mp3": "Sugar"
  },
  {
    "text": "Raisin",
-   "mp3": "Raisin.mp3"
+   "mp3": "Raisin"
  },
  {
    "text": "Chips",
-   "mp3": "Chips.mp3"
+   "mp3": "Chips"
  },
  {
    "text": "Salad",
-   "mp3": "Salad.mp3"
+   "mp3": "Salad"
  },
  {
    "text": "Steak",
-   "mp3": "Steak.mp3"
+   "mp3": "Steak"
  },
  {
    "text": "Sausage",
-   "mp3": "Sausage.mp3"
+   "mp3": "Sausage"
  },
  {
    "text": "Fries",
-   "mp3": "Fries.mp3"
+   "mp3": "Fries"
  },
  {
    "text": "Burrito",
-   "mp3": "Burrito.mp3"
+   "mp3": "Burrito"
  },
  {
    "text": "Burger",
-   "mp3": "Burger.mp3"
+   "mp3": "Burger"
  },
  {
    "text": "Nuggets",
-   "mp3": "Nuggets.mp3"
+   "mp3": "Nuggets"
  },
  {
    "text": "Pizza",
-   "mp3": "Pizza.mp3"
+   "mp3": "Pizza"
  },
  {
    "text": "Taco",
-   "mp3": "Taco.mp3"
+   "mp3": "Taco"
  },
  {
    "text": "Banana",
-   "mp3": "Banana.mp3"
+   "mp3": "Banana"
  },
  {
    "text": "Apple",
-   "mp3": "Apple.mp3"
+   "mp3": "Apple"
  },
  {
    "text": "Broccoli",
-   "mp3": "Broccoli.mp3"
+   "mp3": "Broccoli"
  },
  {
    "text": "Carrot",
-   "mp3": "Carrot.mp3"
+   "mp3": "Carrot"
  },
  {
    "text": "Coconut",
-   "mp3": "Coconut.mp3"
+   "mp3": "Coconut"
  },
  {
    "text": "Corn",
-   "mp3": "Corn.mp3"
+   "mp3": "Corn"
  },
  {
    "text": "Onion",
-   "mp3": "Onion.mp3"
+   "mp3": "Onion"
  },
  {
    "text": "Lemon",
-   "mp3": "Lemon.mp3"
+   "mp3": "Lemon"
  },
  {
    "text": "Grape",
-   "mp3": "Grape.mp3"
+   "mp3": "Grape"
  },
  {
    "text": "Potato",
-   "mp3": "Potato.mp3"
+   "mp3": "Potato"
  },
  {
    "text": "Tomato",
-   "mp3": "Tomato.mp3"
+   "mp3": "Tomato"
  },
  {
    "text": "Kiwi",
-   "mp3": "Kiwi.mp3"
+   "mp3": "Kiwi"
  },
  {
    "text": "Strawberry",
-   "mp3": "Strawberry.mp3"
+   "mp3": "Strawberry"
  },
  {
    "text": "Cloudy",
-   "mp3": "Cloudy.mp3"
+   "mp3": "Cloudy"
  },
  {
    "text": "Sunny",
-   "mp3": "Sunny.mp3"
+   "mp3": "Sunny"
  },
  {
    "text": "Weather",
-   "mp3": "Weather.mp3"
+   "mp3": "Weather"
  },
  {
    "text": "Sunshine",
-   "mp3": "Sunshine.mp3"
+   "mp3": "Sunshine"
  },
  {
    "text": "Thunder",
-   "mp3": "Thunder.mp3"
+   "mp3": "Thunder"
  },
  {
    "text": "Rainy",
-   "mp3": "Rainy.mp3"
+   "mp3": "Rainy"
  },
  {
    "text": "Windy",
-   "mp3": "Windy.mp3"
+   "mp3": "Windy"
  },
  {
    "text": "Hot",
-   "mp3": "Hot.mp3"
+   "mp3": "Hot"
  },
  {
    "text": "Stormy",
-   "mp3": "Stormy.mp3"
+   "mp3": "Stormy"
  },
  {
    "text": "Cold",
-   "mp3": "Cold.mp3"
+   "mp3": "Cold"
  },
  {
    "text": "Snowy",
-   "mp3": "Snowy.mp3"
+   "mp3": "Snowy"
  },
  {
    "text": "Summer",
-   "mp3": "Summer.mp3"
+   "mp3": "Summer"
  },
  {
    "text": "Winter",
-   "mp3": "Winter.mp3"
+   "mp3": "Winter"
  },
  {
    "text": "Spring",
-   "mp3": "Spring.mp3"
+   "mp3": "Spring"
  },
  {
    "text": "Autumn",
-   "mp3": "Autumn.mp3"
+   "mp3": "Autumn"
  },
  {
    "text": "Cap",
-   "mp3": "Cap.mp3"
+   "mp3": "Cap"
  },
  {
    "text": "Shirt",
-   "mp3": "Shirt.mp3"
+   "mp3": "Shirt"
  },
  {
    "text": "Shoe",
-   "mp3": "Shoe.mp3"
+   "mp3": "Shoe"
  },
  {
    "text": "Jacket",
-   "mp3": "Jacket.mp3"
+   "mp3": "Jacket"
  },
  {
    "text": "Belt",
-   "mp3": "Belt.mp3"
+   "mp3": "Belt"
  },
  {
    "text": "Dress",
-   "mp3": "Dress.mp3"
+   "mp3": "Dress"
  },
  {
    "text": "Hat",
-   "mp3": "Hat.mp3"
+   "mp3": "Hat"
  },
  {
    "text": "Jeans",
-   "mp3": "Jeans.mp3"
+   "mp3": "Jeans"
  },
  {
    "text": "Pajamas",
-   "mp3": "Pajamas.mp3"
+   "mp3": "Pajamas"
  },
  {
    "text": "Pants",
-   "mp3": "Pants.mp3"
+   "mp3": "Pants"
  },
  {
    "text": "Socks",
-   "mp3": "Socks.mp3"
+   "mp3": "Socks"
  },
  {
    "text": "Tie",
-   "mp3": "Tie.mp3"
+   "mp3": "Tie"
  },
  {
    "text": "Guitar",
-   "mp3": "Guitar.mp3"
+   "mp3": "Guitar"
  },
  {
    "text": "Music",
-   "mp3": "Music.mp3"
+   "mp3": "Music"
  },
  {
    "text": "Drum",
-   "mp3": "Drum.mp3"
+   "mp3": "Drum"
  },
  {
    "text": "Flute",
-   "mp3": "Flute.mp3"
+   "mp3": "Flute"
  },
  {
    "text": "Maracas",
-   "mp3": "Maracas.mp3"
+   "mp3": "Maracas"
  },
  {
    "text": "Piano",
-   "mp3": "Piano.mp3"
+   "mp3": "Piano"
  },
  {
    "text": "Triangle",
-   "mp3": "Triangle.mp3"
+   "mp3": "Triangle"
  },
  {
    "text": "Shower",
-   "mp3": "Shower.mp3"
+   "mp3": "Shower"
  },
  {
    "text": "Sofa",
-   "mp3": "Sofa.mp3"
+   "mp3": "Sofa"
  },
  {
    "text": "Toilet",
-   "mp3": "Toilet.mp3"
+   "mp3": "Toilet"
  },
  {
    "text": "Toaster",
-   "mp3": "Toaster.mp3"
+   "mp3": "Toaster"
  },
  {
    "text": "Pillow",
-   "mp3": "Pillow.mp3"
+   "mp3": "Pillow"
  },
  {
    "text": "Lamp",
-   "mp3": "Lamp.mp3"
+   "mp3": "Lamp"
  },
  {
    "text": "Box",
-   "mp3": "Box.mp3"
+   "mp3": "Box"
  },
  {
    "text": "Mug",
-   "mp3": "Mug.mp3"
+   "mp3": "Mug"
  },
  {
    "text": "Bathtub",
-   "mp3": "Bathtub.mp3"
+   "mp3": "Bathtub"
  },
  {
    "text": "Bed",
-   "mp3": "Bed.mp3"
+   "mp3": "Bed"
  },
  {
    "text": "Neighbor",
-   "mp3": "Neighbor.mp3"
+   "mp3": "Neighbor"
  },
  {
    "text": "Vacuum",
-   "mp3": "Vacuum.mp3"
+   "mp3": "Vacuum"
  },
  {
    "text": "Cushion",
-   "mp3": "Cushion.mp3"
+   "mp3": "Cushion"
  },
  {
    "text": "Kitchen",
-   "mp3": "Kitchen.mp3"
+   "mp3": "Kitchen"
  },
  {
    "text": "Freezer",
-   "mp3": "Freezer.mp3"
+   "mp3": "Freezer"
  },
  {
    "text": "Detergent",
-   "mp3": "Detergent.mp3"
+   "mp3": "Detergent"
  },
  {
    "text": "Toothbrush",
-   "mp3": "Toothbrush.mp3"
+   "mp3": "Toothbrush"
  },
  {
    "text": "Soap",
-   "mp3": "Soap.mp3"
+   "mp3": "Soap"
  },
  {
    "text": "Luggage",
-   "mp3": "Luggage.mp3"
+   "mp3": "Luggage"
  },
  {
    "text": "Monday",
-   "mp3": "Monday.mp3"
+   "mp3": "Monday"
  },
  {
    "text": "Tuesday",
-   "mp3": "Tuesday.mp3"
+   "mp3": "Tuesday"
  },
  {
    "text": "Wednesday",
-   "mp3": "Wednesday.mp3"
+   "mp3": "Wednesday"
  },
  {
    "text": "Thursday",
-   "mp3": "Thursday.mp3"
+   "mp3": "Thursday"
  },
  {
    "text": "Friday",
-   "mp3": "Friday.mp3"
+   "mp3": "Friday"
  },
  {
    "text": "Saturday",
-   "mp3": "Saturday.mp3"
+   "mp3": "Saturday"
  },
  {
    "text": "Sunday",
-   "mp3": "Sunday.mp3"
+   "mp3": "Sunday"
  },
  {
    "text": "Penguin",
-   "mp3": "Penguin.mp3"
+   "mp3": "Penguin"
  },
  {
    "text": "Crab",
-   "mp3": "Crab.mp3"
+   "mp3": "Crab"
  },
  {
    "text": "Pig",
-   "mp3": "Pig.mp3"
+   "mp3": "Pig"
  },
  {
    "text": "Bunny",
-   "mp3": "Bunny.mp3"
+   "mp3": "Bunny"
  },
  {
    "text": "Chicken",
-   "mp3": "Chicken.mp3"
+   "mp3": "Chicken"
  },
  {
    "text": "Turkey",
-   "mp3": "Turkey.mp3"
+   "mp3": "Turkey"
  },
  {
    "text": "Giraffe",
-   "mp3": "Giraffe.mp3"
+   "mp3": "Giraffe"
  },
  {
    "text": "Sheep",
-   "mp3": "Sheep.mp3"
+   "mp3": "Sheep"
  },
  {
    "text": "Gorilla",
-   "mp3": "Gorilla.mp3"
+   "mp3": "Gorilla"
  },
  {
    "text": "Wolf",
-   "mp3": "Wolf.mp3"
+   "mp3": "Wolf"
  },
  {
    "text": "Grandmother",
-   "mp3": "Grandmother.mp3"
+   "mp3": "Grandmother"
  },
  {
    "text": "Grandfather",
-   "mp3": "Grandfather.mp3"
+   "mp3": "Grandfather"
  },
  {
    "text": "Wee!",
-   "mp3": "Wee!.mp3"
+   "mp3": "Wee!"
  },
  {
    "text": "Ah",
-   "mp3": "Ah.mp3"
+   "mp3": "Ah"
  },
  {
    "text": "Oh!",
-   "mp3": "Oh!.mp3"
+   "mp3": "Oh!"
  },
  {
    "text": "Yay!",
-   "mp3": "Yay!.mp3"
+   "mp3": "Yay!"
  },
  {
    "text": "Yeah!",
-   "mp3": "Yeah!.mp3"
+   "mp3": "Yeah!"
  },
  {
    "text": "Whoa!",
-   "mp3": "Whoa!.mp3"
+   "mp3": "Whoa!"
  }
 ]
