@@ -717,51 +717,51 @@
 },
 {
   "text": "Good Morning",
-  "mp3": "Good Morning"
+  "mp3": "GoodMorning"
 },
 {
   "text": "Good Afternoon",
-  "mp3": "Good Afternoon"
+  "mp3": "GoodAfternoon"
 },
 {
   "text": "Good Evening",
-  "mp3": "Good Evening"
+  "mp3": "GoodEvening"
 },
 {
   "text": "Good Night",
-  "mp3": "Good Night"
+  "mp3": "GoodNight"
 },
 {
-  "text": "What’S Up?",
-  "mp3": "What’S Up?"
+  "text": "What’s Up?",
+  "mp3": "WhatsUp"
 },
 {
   "text": "How Do You Do?",
-  "mp3": "How Do You Do?"
+  "mp3": "HowDoYouDo"
 },
 {
   "text": "How Are You?",
-  "mp3": "How Are You?"
+  "mp3": "HowAreYou"
 },
 {
-  "text": "I’M Fine.",
-  "mp3": "I’M Fine."
+  "text": "I’m Fine.",
+  "mp3": "ImFine"
 },
 {
-  "text": "I’M Very Well.",
-  "mp3": "I’M Very Well."
+  "text": "I’m Very Well.",
+  "mp3": "ImVeryWell"
 },
 {
-  "text": "I'M Fine. How About You?",
-  "mp3": "I'M Fine. How About You?"
+  "text": "I'm Fine. How About You?",
+  "mp3": "ImFineHowAboutYou"
 },
 {
-  "text": "I’M Sorry.",
-  "mp3": "I’M Sorry."
+  "text": "I’m Sorry.",
+  "mp3": "ImSorry"
 },
 {
   "text": "Excuse Me.",
-  "mp3": "Excuse Me."
+  "mp3": "ExcuseMe"
 },
 {
   "text": "Please",
@@ -769,7 +769,7 @@
 },
 {
   "text": "See You",
-  "mp3": "See You"
+  "mp3": "SeeYou"
 },
 {
   "text": "Goodbye",
