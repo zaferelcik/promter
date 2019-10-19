@@ -894,7 +894,8 @@
   {
     "text": "Hundred",
     "mp3": "Hundred"
-  },{
+  },
+  {
     "text": "  Baby",
     "mp3": "https://raw.githubusercontent.com/zaferelcik/promter/master/old/Baby.mp3"
   },
@@ -953,5 +954,17 @@
   {
     "text": "  Duck",
     "mp3": "https://raw.githubusercontent.com/zaferelcik/promter/master/old/Duck.mp3"
+  },
+  {
+    "text": "  Ears",
+    "mp3": "https://raw.githubusercontent.com/zaferelcik/promter/master/old/Ears.mp3"
+  },
+  {
+    "text": "  Eight",
+    "mp3": "https://raw.githubusercontent.com/zaferelcik/promter/master/old/Eight.mp3"
+  },
+  {
+    "text": "  Elephant",
+    "mp3": "https://raw.githubusercontent.com/zaferelcik/promter/master/old/Elephant.mp3"
   }
 ]
